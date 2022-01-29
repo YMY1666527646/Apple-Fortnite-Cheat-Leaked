@@ -1,0 +1,323 @@
+﻿  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+Imgui\imgui_widgets.cpp(885,117): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+Imgui\imgui_widgets.cpp(885,92): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+Imgui\imgui_widgets.cpp(886,35): warning C4305: 'argument' : troncation de 'double' à 'float'
+Imgui\imgui_widgets.cpp(891,64): warning C4305: 'argument' : troncation de 'double' à 'float'
+Imgui\imgui_widgets.cpp(891,105): warning C4305: 'argument' : troncation de 'double' à 'float'
+Imgui\imgui_widgets.cpp(894,79): warning C4305: 'argument' : troncation de 'double' à 'float'
+  main.cpp
+C:\Users\IfckU\Desktop\PastePolice\win_utils.h(235,74): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\uxtheme.h(1600,57): warning C4459: la déclaration de 'hwnd' masque la déclaration globale
+C:\Users\IfckU\Desktop\PastePolice\win_utils.h(24,6): message : voir la déclaration de 'hwnd'
+C:\Users\IfckU\Desktop\PastePolice\keybind.h(22,22): warning C4100: 'blank' : paramètre formel non référencé
+main.cpp(32,71): warning C4267: 'argument' : conversion de 'size_t' en '_Ty', perte possible de données
+          with
+          [
+              _Ty=int
+          ]
+main.cpp(94,83): warning C4459: la déclaration de 'color' masque la déclaration globale
+C:\Users\IfckU\Desktop\PastePolice\Defines.h(108,3): message : voir la déclaration de 'color'
+main.cpp(95,14): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+main.cpp(96,14): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+main.cpp(98,102): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(98,60): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(98,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(98,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(99,102): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(99,71): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(99,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(99,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(100,110): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(100,79): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(100,74): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(100,61): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(101,110): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(101,66): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(101,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(101,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(102,110): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(102,77): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(102,72): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(102,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(103,110): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(103,77): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(103,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(103,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(104,118): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(104,85): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(104,78): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(104,63): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(105,118): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(105,85): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(105,78): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(105,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(108,85): warning C4459: la déclaration de 'color' masque la déclaration globale
+C:\Users\IfckU\Desktop\PastePolice\Defines.h(108,3): message : voir la déclaration de 'color'
+main.cpp(109,14): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+main.cpp(110,14): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+main.cpp(112,108): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(112,66): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(112,55): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(112,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(113,108): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(113,77): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(113,55): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(113,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(114,116): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(114,85): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(114,80): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(114,67): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(115,116): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(115,72): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(115,59): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(115,54): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(116,116): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(116,83): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(116,78): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(116,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(117,116): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(117,83): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(117,57): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(117,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(118,124): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(118,91): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(118,84): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(118,69): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(119,124): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(119,91): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(119,84): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(119,54): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(122,53): warning C4459: la déclaration de 'color' masque la déclaration globale
+C:\Users\IfckU\Desktop\PastePolice\Defines.h(108,3): message : voir la déclaration de 'color'
+main.cpp(124,75): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(124,68): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(124,55): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(124,52): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(128,80): warning C4459: la déclaration de 'color' masque la déclaration globale
+C:\Users\IfckU\Desktop\PastePolice\Defines.h(108,3): message : voir la déclaration de 'color'
+main.cpp(129,14): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+main.cpp(130,14): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+main.cpp(132,102): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(132,60): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(132,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(132,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(133,102): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(133,71): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(133,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(133,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(134,110): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(134,79): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(134,74): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(134,61): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(135,110): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(135,66): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(135,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(135,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(136,110): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(136,77): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(136,72): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(136,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(137,110): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(137,77): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(137,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(137,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(138,118): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(138,85): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(138,78): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(138,63): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(139,118): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(139,85): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(139,78): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(139,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(155,74): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+main.cpp(168,42): warning C4459: la déclaration de 'color' masque la déclaration globale
+C:\Users\IfckU\Desktop\PastePolice\Defines.h(108,3): message : voir la déclaration de 'color'
+main.cpp(173,55): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(173,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(174,55): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(174,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(175,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(175,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(278,16): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+main.cpp(304,24): warning C4459: la déclaration de 'ScreenCenterX' masque la déclaration globale
+main.cpp(75,7): message : voir la déclaration de 'ScreenCenterX'
+main.cpp(305,24): warning C4459: la déclaration de 'ScreenCenterY' masque la déclaration globale
+main.cpp(76,7): message : voir la déclaration de 'ScreenCenterY'
+main.cpp(314,25): warning C4100: 'in' : paramètre formel non référencé
+main.cpp(329,8): warning C4189: 'gravity' : variable locale initialisée mais non référencée
+main.cpp(330,8): warning C4189: 'time' : variable locale initialisée mais non référencée
+main.cpp(342,24): warning C4459: la déclaration de 'ScreenCenterX' masque la déclaration globale
+main.cpp(75,7): message : voir la déclaration de 'ScreenCenterX'
+main.cpp(342,22): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+main.cpp(343,24): warning C4459: la déclaration de 'ScreenCenterY' masque la déclaration globale
+main.cpp(76,7): message : voir la déclaration de 'ScreenCenterY'
+main.cpp(343,22): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+main.cpp(344,24): warning C4459: la déclaration de 'ScreenCenterZ' masque la déclaration globale
+main.cpp(77,7): message : voir la déclaration de 'ScreenCenterZ'
+main.cpp(344,22): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+main.cpp(345,15): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+main.cpp(398,101): warning C4459: la déclaration de 'color' masque la déclaration globale
+C:\Users\IfckU\Desktop\PastePolice\Defines.h(108,3): message : voir la déclaration de 'color'
+main.cpp(435,87): warning C4100: 'z2' : paramètre formel non référencé
+main.cpp(435,54): warning C4100: 'z1' : paramètre formel non référencé
+main.cpp(451,66): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(485,66): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(499,68): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(499,56): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(513,68): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(513,56): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(526,60): warning C4459: la déclaration de 'color' masque la déclaration globale
+C:\Users\IfckU\Desktop\PastePolice\Defines.h(108,3): message : voir la déclaration de 'color'
+main.cpp(528,98): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(528,66): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(528,62): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(528,50): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(528,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(584,31): warning C4244: '=' : conversion de 'DWORD64' en 'LONG', perte possible de données
+main.cpp(681,229): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(681,64): warning C4244: 'argument' : conversion de 'DWORD' en 'float', perte possible de données
+main.cpp(681,49): warning C4244: 'argument' : conversion de 'DWORD' en 'float', perte possible de données
+main.cpp(682,229): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(682,64): warning C4244: 'argument' : conversion de 'DWORD' en 'float', perte possible de données
+main.cpp(682,49): warning C4244: 'argument' : conversion de 'DWORD' en 'float', perte possible de données
+main.cpp(683,229): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(683,64): warning C4244: 'argument' : conversion de 'DWORD' en 'float', perte possible de données
+main.cpp(683,49): warning C4244: 'argument' : conversion de 'DWORD' en 'float', perte possible de données
+main.cpp(686,105): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(686,93): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(686,70): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(686,57): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(687,105): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(687,93): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(687,70): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(687,57): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(688,101): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(688,89): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(688,69): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(688,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(689,101): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(689,89): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(689,69): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(689,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(693,7): warning C4551: liste d'arguments manquante dans l'appel de fonction
+main.cpp(696,54): warning C4474: 'sprintf_s' : trop d'arguments passés pour la chaîne de format
+main.cpp(696,54): message : les espaces réservés et leurs paramètres attendent des arguments 0 variadiques, mais des arguments 1 ont été fournis
+main.cpp(712,105): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(712,93): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(712,70): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(712,57): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(713,105): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(713,93): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(713,70): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(713,57): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(714,101): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(714,89): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(714,69): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(714,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(715,101): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(715,89): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(715,69): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(715,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(767,18): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+main.cpp(769,21): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+main.cpp(773,21): warning C4456: la déclaration de 'ActorTeamId' masque la déclaration locale précédente
+main.cpp(726,6): message : voir la déclaration de 'ActorTeamId'
+main.cpp(774,20): warning C4456: la déclaration de 'curactorid' masque la déclaration locale précédente
+main.cpp(728,6): message : voir la déclaration de 'curactorid'
+main.cpp(779,72): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(779,59): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(779,55): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(779,30): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(780,203): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(780,68): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(780,55): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(780,51): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(780,26): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(799,68): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(799,56): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(817,60): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(817,40): warning C4244: 'argument' : conversion de 'float' en 'DWORD_PTR', perte possible de données
+main.cpp(818,60): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(818,40): warning C4244: 'argument' : conversion de 'float' en 'DWORD_PTR', perte possible de données
+main.cpp(819,60): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(819,40): warning C4244: 'argument' : conversion de 'float' en 'DWORD_PTR', perte possible de données
+main.cpp(820,60): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(820,40): warning C4244: 'argument' : conversion de 'float' en 'DWORD_PTR', perte possible de données
+main.cpp(829,56): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(829,38): warning C4244: 'argument' : conversion de 'float' en 'DWORD_PTR', perte possible de données
+main.cpp(830,56): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(830,38): warning C4244: 'argument' : conversion de 'float' en 'DWORD_PTR', perte possible de données
+main.cpp(831,56): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(831,38): warning C4244: 'argument' : conversion de 'float' en 'DWORD_PTR', perte possible de données
+main.cpp(832,56): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(832,38): warning C4244: 'argument' : conversion de 'float' en 'DWORD_PTR', perte possible de données
+main.cpp(837,33): warning C4244: 'argument' : conversion de 'float' en 'ImU32', perte possible de données
+main.cpp(840,33): warning C4244: 'argument' : conversion de 'float' en 'ImU32', perte possible de données
+main.cpp(861,66): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(861,53): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(861,49): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(861,24): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(883,204): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(883,69): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(883,56): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(883,52): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(883,27): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(894,39): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(894,27): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(935,66): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(935,54): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+main.cpp(939,233): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(940,233): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(941,233): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(942,233): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(943,233): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(944,233): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+main.cpp(726,6): warning C4189: 'ActorTeamId' : variable locale initialisée mais non référencée
+main.cpp(1240,17): warning C4459: la déclaration de 'current' masque la déclaration globale
+main.cpp(1159,5): message : voir la déclaration de 'current'
+main.cpp(1240,7): warning C4189: 'current' : variable locale initialisée mais non référencée
+main.cpp(1232,3): warning C4189: 'TextSpaceLine' : variable locale initialisée mais non référencée
+main.cpp(1233,3): warning C4189: 'SpaceLineOne' : variable locale initialisée mais non référencée
+main.cpp(1234,3): warning C4189: 'SpaceLineTwo' : variable locale initialisée mais non référencée
+main.cpp(1235,3): warning C4189: 'SpaceLineThr' : variable locale initialisée mais non référencée
+main.cpp(1603,19): warning C4459: la déclaration de 'width' masque la déclaration globale
+main.cpp(1600,5): message : voir la déclaration de 'width'
+main.cpp(1603,30): warning C4459: la déclaration de 'height' masque la déclaration globale
+main.cpp(1601,5): message : voir la déclaration de 'height'
+main.cpp(1630,21): warning C4018: '<' : incompatibilité signed/unsigned
+main.cpp(1603,30): warning C4100: 'height' : paramètre formel non référencé
+main.cpp(1603,19): warning C4100: 'width' : paramètre formel non référencé
+main.cpp(1662,18): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+main.cpp(1665,2): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+main.cpp(1682,65): warning C4267: 'argument' : conversion de 'size_t' en '_Ty', perte possible de données
+          with
+          [
+              _Ty=int
+          ]
+main.cpp(1721,1): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
+main.cpp(1772,20): warning C4101: 'Readed_Bytes_Amount' : variable locale non référencée
+main.cpp(1820,9): warning C4189: 'handle' : variable locale initialisée mais non référencée
+main.cpp(1932,23): warning C4244: '=' : conversion de 'LONG' en 'float', perte possible de données
+main.cpp(1933,23): warning C4244: '=' : conversion de 'LONG' en 'float', perte possible de données
+main.cpp(1965,42): warning C4459: la déclaration de 'Message' masque la déclaration globale
+main.cpp(1890,5): message : voir la déclaration de 'Message'
+main.cpp(613,31): warning C4244: '=' : conversion de 'DWORD64' en 'LONG', perte possible de données
+main.cpp(793): message : voir la référence à l'instanciation de la fonction modèle 'bool write<float>(uint64_t,T)' en cours de compilation
+          with
+          [
+              T=float
+          ]
+main.cpp(614,29): warning C4244: '=' : conversion de 'DWORD64' en 'LONG', perte possible de données
+main.cpp(1672,20): warning C4505: 'RandomProcess' : la fonction non référencée avec liaison interne a été supprimée
+  kernelmode_proc_handler.cpp
+kernelmode_proc_handler.cpp(75,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+kernelmode_proc_handler.cpp(103,71): warning C4100: 'allocation_type' : paramètre formel non référencé
+  Génération de code en cours
+  Previous IPDB not found, fall back to full compilation.
+  All 1602 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  PastePolice_external.vcxproj -> C:\Users\IfckU\Desktop\PastePolice\x64\Release\Fortnite.exe
